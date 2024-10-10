@@ -30,7 +30,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ###### Contact Page
 ![Contact](https://github.com/user-attachments/assets/f7271d47-ebc0-4557-8af7-cf4303bcc076)
 
-######Solution
+###### Solution
 ![Solutions](https://github.com/user-attachments/assets/428ed65a-b0c8-4540-b120-12abb1b9f410)
 
 
