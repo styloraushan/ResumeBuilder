@@ -13,20 +13,29 @@ Welcome to our Resume Builder Website! Our website allows users to easily create
 Here are some screenshots of the project to give you an idea of its features and functionality:
 
 ###### Home Page
-![Home Page](https://user-images.githubusercontent.com/87645745/213860435-ef02b36f-adbd-4517-b103-174c3dcb7be9.png)
+![Home Page](https://github.com/user-attachments/assets/dc491305-818f-4b45-b97f-f5d5e7fa6690)
 
-###### Select Template Page
-![Select Template](https://user-images.githubusercontent.com/87645745/213860462-ea8bd7db-2c15-4633-9894-113f047cc13b.png)
+###### Templates
+![Select Template](https://github.com/user-attachments/assets/c20e2699-de9b-4231-9af6-5b62ba8df0f6)
 
 ###### Resume Builder Page
-![Resume Building](https://user-images.githubusercontent.com/87645745/213860488-d6215b7a-507e-40ff-b42b-a901cca3d0b9.png)
+![Resume Building](https://github.com/user-attachments/assets/53d8a5d1-e614-46a9-b3a2-fdff7c6d31ec)
 
 ###### About Page
-![About Page](https://user-images.githubusercontent.com/87645745/213860448-cefcc6f0-8d58-4ce6-8d94-1f5c4271f87f.png)
+![About Page](https://github.com/user-attachments/assets/859a1f57-ce25-4de2-9f5d-1633552a39e3)
 
-###### Dark Mode
-![Dark Mode](https://user-images.githubusercontent.com/87645745/213860517-73a40b9c-dd35-4586-a253-757c654f19c7.png)
+###### Features Page
+![Features](https://github.com/user-attachments/assets/07db0403-c6d9-4255-84ce-f58174e1e71a)
 
+###### Contact Page
+![Contact](https://github.com/user-attachments/assets/f7271d47-ebc0-4557-8af7-cf4303bcc076)
+
+######Solution
+![Solutions](https://github.com/user-attachments/assets/428ed65a-b0c8-4540-b120-12abb1b9f410)
+
+
+###### Error Page
+![Error](https://github.com/user-attachments/assets/0893ee5d-c3e0-414c-9201-09b639f481e8)
 
 
 ## Getting Started
@@ -36,7 +45,7 @@ git clone https://github.com/styloraushan/ResumeBuilder.git
 ```
 2. Navigate to the project directory
 ```bash
-cd resume-builder
+cd ResumeBuilder
 ```
 3. Install dependencies
 ```bash
@@ -56,13 +65,6 @@ npm run start
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
-### Authors
-- Raushan Kumar
-### Contributions
-- We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
+### By
+- Raushan kumar
 
-### License
- - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### Acknowledgments
-- We would like to thank our users for their support and feedback in making this website a success.
